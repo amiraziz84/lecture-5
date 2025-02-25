@@ -1,0 +1,19 @@
+ /*
+ *{
+    background-image: url("https://images.unsplash.com/photo-1612287230202-1ff1d85d1bdf?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+}
+    */
+.app{
+    background-color: rosybrown;
+    color: white;
+    border: 2px solid red;
+    width: 50%;
+}
+.app>input{
+    border: 2px solid green;
+
+}
+.app>button{
+    background-color: blue;
+    color: white;
+}
